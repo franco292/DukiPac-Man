@@ -1,0 +1,5 @@
+CONTROLES DEL JUEGO.
+Flecha Arriba: Movimiento hacia arriba. 
+Flecha Abajo: Movimiento hacia abajo.
+Flecha Derecha: Movimiento hacia la derecha.
+Flecha Izquierda: Movimiento hacia la izquierda.

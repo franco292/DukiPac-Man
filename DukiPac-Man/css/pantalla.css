@@ -1,0 +1,69 @@
+html {
+  box-sizing: border-box;
+}
+body{
+  zoom: 60%;
+}
+body {
+  background-image: url("../extra/fondos/niveles.jpg");
+  background-size: 500px;
+}
+
+.tile {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.block {
+  background-color: blue;
+}
+
+.coin {
+  background-color: yellow;
+  border-radius: 100%;
+  transform: scale(0.2);
+}
+
+.supercoin {
+  background-color: yellow;
+  border-radius: 100%;
+  transform: scale(0.6);
+
+}
+
+.pacman {
+  background-image: url("../extra/duki/dukiderecha.png");
+  width: 60; 
+  height: 50;
+  background-size: 55px;
+}
+
+.red {
+  background-image: url("../extra/fantasmas/rojo.gif");
+  width: 40; 
+  height: 30;
+  background-size: 50px;
+}
+
+.blue {
+  background-image: url("../extra/fantasmas/azul.gif");
+  width: 40; 
+  height: 30;
+  background-size: 50px;
+}
+
+.orange {
+  background-image: url("../extra/fantasmas/naranja.gif");
+  width: 40; 
+  height: 30;
+  background-size: 50px;
+}
+
+.pink {
+  background-image: url("../extra/fantasmas/rosa.gif");
+  width: 40; 
+  height: 30;
+  background-size: 50px;
+}
